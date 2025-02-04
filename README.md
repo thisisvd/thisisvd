@@ -7,7 +7,7 @@ A passionate Software Developer with a drive for solving everyday problems throu
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimaldubey12212000@gmail.com)](mailto:vimaldubey12212000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimaldubey21122000@gmail.com)](mailto:vimaldubey21122000@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thisisvd?style=social)](https://twitter.com/intent/follow?screen_name=thisisvd)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vimal-dubey-a788291b0)](https://linkedin.com/in/vimal-dubey-a788291b0)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/thisisvd21)](https://www.hackerrank.com/profile/thisisvd21)
@@ -38,7 +38,28 @@ Some Recent articles:
 </br>
   
 ### 🖥️ Tools & OS
-<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Window&logoColor=white&color=269077)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=269077)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=269077)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=269077)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=code&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Code-Unity_Editor-informational?style=flat&logo=unity&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=269077)
+![](https://img.shields.io/badge/CMD-Terminal-informational?style=flat&logo=gnometerminal&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=269077)
+![](https://img.shields.io/badge/OS-Chrome-informational?style=flat&logo=googlechrome&logoColor=white&color=269077)
+![](https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=269077)
 
 ### ⚙️ Tech Stack
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
