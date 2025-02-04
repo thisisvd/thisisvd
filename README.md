@@ -1,3 +1,5 @@
+![Header](https://github.com/thisisvd/thisisvd/blob/main/Vimal%20Dubey%20-%20GitHub%20Header%20Components.png "Header")
+
 <h1><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I’m <a href="https://github.com/thisisvd">Vimal Dubey...</a> </h1>
 
 ### Who?  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
