@@ -7,7 +7,7 @@ A passionate Software Developer with a drive for solving everyday problems throu
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimaldubey12212000@gmail.com)](mailto:abhishekmaira1999@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimaldubey12212000@gmail.com)](mailto:vimaldubey12212000@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thisisvd?style=social)](https://twitter.com/intent/follow?screen_name=thisisvd)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vimal-dubey-a788291b0)](https://linkedin.com/in/vimal-dubey-a788291b0)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/thisisvd21)](https://www.hackerrank.com/profile/thisisvd21)
