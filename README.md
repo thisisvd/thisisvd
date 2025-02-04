@@ -3,7 +3,7 @@
 ### Who?  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 A Software Developer committed to creating innovative solutions for real-world problems through technology. Dedicated to continuous learning and staying at the forefront of emerging tech trends. Passionate about contributing to impactful, scalable solutions in the tech industry.
 
-### 📬 Find me at
+## 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimaldubey21122000@gmail.com)](mailto:vimaldubey21122000@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thisisvd?style=social)](https://twitter.com/intent/follow?screen_name=thisisvd)
@@ -29,8 +29,7 @@ A Software Developer committed to creating innovative solutions for real-world p
 Some Recent articles:
 - [Projects🔉: Have a look](https://drive.google.com/drive/folders/1x1rhYqQm9hwNn_SpAY9d8JvAdqycjgxF?usp=share_link)
 
-### 🖥️ OS & Tools
-
+## 🖥️ OS & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Window&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=269077)
@@ -48,7 +47,7 @@ Some Recent articles:
 ![](https://img.shields.io/badge/OS-Chrome-informational?style=flat&logo=googlechrome&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=269077)
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Jotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -74,7 +73,6 @@ Some Recent articles:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
 ## 🚀 GitHub Stats
-
 <p style="display: flex; justify-content: space-between;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisvd&show_icons=true&theme=gotham&hide_border=true&locale=en&layout=compact&bg_color=00000000" alt="thisisvd" />
   <img src="https://github-readme-stats.vercel.app/api?username=thisisvd&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="thisisvd" />
