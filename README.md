@@ -1,9 +1,7 @@
 <h1><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I’m <a href="https://github.com/thisisvd">Vimal Dubey...</a> </h1>
 
-### About me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-A passionate Software Developer with a drive for solving everyday problems through innovative tech solutions. Proficient in Java, Kotlin, Python, and Android development, I strive to stay ahead of the curve by constantly learning and experimenting with emerging technologies.
-
-<br/>
+### Who?  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+A Software Developer committed to creating innovative solutions for real-world problems through technology. Dedicated to continuous learning and staying at the forefront of emerging tech trends. Passionate about contributing to impactful, scalable solutions in the tech industry.
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
@@ -13,11 +11,9 @@ A passionate Software Developer with a drive for solving everyday problems throu
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/thisisvd21)](https://www.hackerrank.com/profile/thisisvd21)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/thisisvd21/)](https://www.geeksforgeeks.org/user/thisisvd21/)
 
-<br/>
-
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Software Developer.
+- 🔭 I’m currently working as a Software Developer developing real-time online games and applications.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Android, KMM & Backend including Flask & Spring Boot
   - 🖼 Computer Vision & Unity Games
@@ -28,16 +24,12 @@ A passionate Software Developer with a drive for solving everyday problems throu
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1BXzxjr98EMizZw6fV0IRyMUsUo8jRpcF/view?usp=drive_link)
 - 🎉 Fun-Fact:🤔...
 
-</br>
-
 ## 📕 Blog & writing
 
 Some Recent articles:
 - [Projects🔉: Have a look](https://drive.google.com/drive/folders/1x1rhYqQm9hwNn_SpAY9d8JvAdqycjgxF?usp=share_link)
 
-</br>
-  
-### 🖥️ Tools & OS
+### 🖥️ OS & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Window&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=269077)
@@ -50,35 +42,36 @@ Some Recent articles:
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/Code-Unity_Editor-informational?style=flat&logo=unity&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=269077)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/CMD-Terminal-informational?style=flat&logo=gnometerminal&logoColor=white&color=269077)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=269077)
-![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=269077)
-![](https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=269077)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/OS-Chrome-informational?style=flat&logo=googlechrome&logoColor=white&color=269077)
 ![](https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=269077)
 
 ### ⚙️ Tech Stack
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
-
-<br/>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Jotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF9E00?style=flat&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=30648B)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=icloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E??style=flat&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-047C8A?style=flat&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
 ## 🚀 GitHub Stats
 
@@ -87,8 +80,6 @@ Some Recent articles:
   <img src="https://github-readme-stats.vercel.app/api?username=thisisvd&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="thisisvd" />
 </p>
 </details>
-
-</br>
 
 <a href="https://github.com/thisisvd/FitMe-App" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=FitMe-App&theme=dracula" />
