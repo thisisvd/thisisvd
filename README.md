@@ -4,12 +4,12 @@
 A Software Developer committed to creating innovative solutions for real-world problems through technology. Dedicated to continuous learning and staying at the forefront of emerging tech trends. Passionate about contributing to impactful, scalable solutions in the tech industry.
 
 ## 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimaldubey21122000@gmail.com)](mailto:vimaldubey21122000@gmail.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thisisvd?style=social)](https://twitter.com/intent/follow?screen_name=thisisvd)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vimal-dubey-a788291b0)](https://linkedin.com/in/vimal-dubey-a788291b0)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/thisisvd21)](https://www.hackerrank.com/profile/thisisvd21)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/thisisvd21/)](https://www.geeksforgeeks.org/user/thisisvd21/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:vimaldubey21122000@gmail.com)](mailto:vimaldubey21122000@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/-thisisvd-FFFFFF?style=flat&logo=X&logoColor=black&link=https://x.com/thisisvd)](https://x.com/thisisvd)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vimal-dubey-a788291b0)](https://linkedin.com/in/vimal-dubey-a788291b0)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/thisisvd21)](https://www.hackerrank.com/profile/thisisvd21)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/thisisvd21/)](https://www.geeksforgeeks.org/user/thisisvd21/)
 
 ## ⚡️ A Few Quick Facts
 
