@@ -74,12 +74,11 @@ Some Recent articles:
 
 ## 🚀 GitHub Stats
 <p style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisvd&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="thisisvd" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisvd&show_icons=true&locale=en&theme=gotham&hide_border=true&layout=compact" alt="thisisvd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisvd&show_icons=true&locale=en&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs" alt="thisisvd" />
 </p>
-</details>
 
 <a href="https://github.com/thisisvd/FitMe-App" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisvd&show_icons=true&theme=gotham&hide_border=true&locale=en&layout=compact&bg_color=00000000" alt="thisisvd" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=FitMe-App&theme=dracula" />
 </a>
 <a href="https://github.com/thisisvd/Eduvae-Public-Repository" target="_blank">
