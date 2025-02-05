@@ -79,6 +79,7 @@ Some Recent articles:
 </details>
 
 <a href="https://github.com/thisisvd/FitMe-App" target="_blank">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisvd&show_icons=true&theme=gotham&hide_border=true&locale=en&layout=compact&bg_color=00000000" alt="thisisvd" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=FitMe-App&theme=dracula" />
 </a>
 <a href="https://github.com/thisisvd/Eduvae-Public-Repository" target="_blank">
