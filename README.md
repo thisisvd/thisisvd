@@ -3,7 +3,7 @@
 <h1><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I’m <a href="https://github.com/thisisvd">Vimal Dubey...</a> </h1>
 
 ### Who?  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-A Software Developer committed to creating innovative solutions for real-world problems through technology. Dedicated to continuous learning and staying at the forefront of emerging tech trends. Passionate about contributing to impactful, scalable solutions in the tech industry.
+A Software Developer committed to creating innovative solutions for real-world problems through technology. Dedicated to continuous learning and staying at the forefront of emerging tech trends. Passionate about contributing to impactful, scalable, and innovative solutions in the tech industry.
 
 ## 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/thisisvd)](https://github.com/thisisvd)
@@ -18,13 +18,12 @@ A Software Developer committed to creating innovative solutions for real-world p
 - 🔭 I’m currently working as a Software Developer developing real-time online games and applications.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Android, KMM & Backend including Flask & Spring Boot
-  - 🖼 Computer Vision & Unity Games
-  - 🛠 Augmented Reality & Virtual Reality
+  - 🛠 Computer Vision, AR/VR & Unity Games
   - 🤖 Reading Docs and Open Source Code
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making Argumental Reality and AI applications
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1BXzxjr98EMizZw6fV0IRyMUsUo8jRpcF/view?usp=drive_link)
-- 🎉 Fun-Fact:🤔...
+- 🎉 Fun-Fact: "Umm🤔... Addicted to <img width="24px" src="https://github.com/thisisvd/thisisvd/blob/main/uno_icon8.png">!"
 
 ## 📕 Blog & writing
 
@@ -59,7 +58,7 @@ Some Recent articles:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=icloud&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E??style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E??style=flat&logo=amazonwebservices&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-047C8A?style=flat&logo=Canva&logoColor=white)
@@ -67,6 +66,7 @@ Some Recent articles:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%2348224B.svg?style=flat&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
