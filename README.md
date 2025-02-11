@@ -23,7 +23,7 @@ A Software Developer committed to creating innovative solutions for real-world p
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making Argumental Reality and AI applications
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1BXzxjr98EMizZw6fV0IRyMUsUo8jRpcF/view?usp=drive_link)
-- 🎉 Fun-Fact: "Umm🤔... Addicted to <img width="24px" src="https://github.com/thisisvd/thisisvd/blob/main/uno_icon8.png">!"
+- 🎉 Fun-Fact: "Umm🤔... Addicted to <img width="24px" src="https://github.com/thisisvd/thisisvd/blob/main/uno_icon8.png">!" - Connect with me : <a href="https://g.mattel163.com/20ylDfhMYRL" style="font-weight: bold; color: #FF000A;">[UNO Profile]</a>
 
 ## 📕 Blog & writing
 
