@@ -12,6 +12,7 @@ A Software Developer committed to creating innovative solutions for real-world p
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vimal-dubey-a788291b0)](https://linkedin.com/in/vimal-dubey-a788291b0)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/thisisvd21)](https://www.hackerrank.com/profile/thisisvd21)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/thisisvd21/)](https://www.geeksforgeeks.org/user/thisisvd21/)
+[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&link=https://medium.com/@thisisvd&logoColor=black&color=white)](https://medium.com/@thisisvd)
 
 ## ⚡️ A Few Quick Facts
 
@@ -25,9 +26,10 @@ A Software Developer committed to creating innovative solutions for real-world p
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1BXzxjr98EMizZw6fV0IRyMUsUo8jRpcF/view?usp=drive_link)
 - 🎉 Fun-Fact: "Umm🤔... Addicted to <img width="24px" src="https://github.com/thisisvd/thisisvd/blob/main/uno_icon8.png">!" - Connect with me : <a href="https://g.mattel163.com/20ylDfhMYRL" style="font-weight: bold; color: #FF000A;">[UNO Profile]</a>
 
-## 📕 Blog & writing
+## 📕 Blog & writing [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&link=https://medium.com/@thisisvd&logoColor=black&color=white)](https://medium.com/@thisisvd)
 
 Some Recent articles:
+- [Android: Ease Your Android Development with Timber: Simplify Logging and Debugging](https://medium.com/@thisisvd/ease-your-android-development-with-timber-simplify-logging-and-debugging-0e54731748ba)
 - [Projects🔉: Have a look](https://drive.google.com/drive/folders/1x1rhYqQm9hwNn_SpAY9d8JvAdqycjgxF?usp=share_link)
 
 ## 🖥️ OS & Tools
