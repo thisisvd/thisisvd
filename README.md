@@ -83,6 +83,6 @@ Some Recent articles:
 <a href="https://github.com/thisisvd/FitMe-App" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=FitMe-App&theme=dracula" />
 </a>
-<a href="https://github.com/thisisvd/Eduvae-Public-Repository" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=Eduvae-Public-Repository&theme=dracula" />
+<a href="https://github.com/thisisvd/Eduvae-plus" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=Eduvae-Plus&theme=dracula" />
 </a>
