@@ -84,5 +84,5 @@ Some Recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=FitMe-App&theme=dracula" />
 </a>
 <a href="https://github.com/thisisvd/Eduvae-plus" target="_blank">
- <img align="center" src="" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisvd&hide_border=true&repo=Eduvae-Plus&theme=dracula" />
 </a>
